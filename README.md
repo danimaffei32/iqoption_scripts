@@ -9,7 +9,7 @@ Indicators and strategy for IQ option. Can load via script inside IQ option.
 Steps for installation
 
 ```
-1. Open the bookmark folder you want to use
+1. Open the folder you want to use
 2. Select the .lua file
 3. Click the RAW button
 4. copy the code
